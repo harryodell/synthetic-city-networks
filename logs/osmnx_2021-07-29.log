@@ -1,0 +1,86 @@
+2021-07-29 12:46:25,236 INFO OSMnx Configured OSMnx 1.1.1
+2021-07-29 12:46:25,236 INFO OSMnx HTTP response caching is on
+2021-07-29 12:47:39,544 INFO OSMnx Retrieved response from cache file "cache\98c7371d0e0a0e40850d40788a32f8980c78bbe3.json"
+2021-07-29 12:47:39,628 INFO OSMnx Retrieved response from cache file "cache\92f453f67051b35bc2326354bd71f8abcd50c752.json"
+2021-07-29 12:47:39,650 INFO OSMnx Retrieved response from cache file "cache\6267a5049c3756aea482386316d1b184de19cc0d.json"
+2021-07-29 12:47:39,682 INFO OSMnx Retrieved response from cache file "cache\7a0c4da807364887f217f08ab4f9aff59458d050.json"
+2021-07-29 12:47:39,728 INFO OSMnx Retrieved response from cache file "cache\cc94bbb96f0d5b69c50398279fd2e0365364a530.json"
+2021-07-29 12:47:39,766 INFO OSMnx Retrieved response from cache file "cache\69246b9ab44edf7ad7c5e7b5be5a68c61224bd5b.json"
+2021-07-29 12:47:39,797 INFO OSMnx Retrieved response from cache file "cache\fd3a6423f62cd8016454000aa6399332a0bf1c0a.json"
+2021-07-29 12:47:39,829 INFO OSMnx Retrieved response from cache file "cache\56f990723eac5101a103355ea8884d00baf37da7.json"
+2021-07-29 12:47:39,866 INFO OSMnx Retrieved response from cache file "cache\a9cac558bd56343b6f808f18553ef6581d91c6b7.json"
+2021-07-29 12:47:39,929 INFO OSMnx Retrieved response from cache file "cache\3e93df17d1f16328b9ad720b3de39e833de7ef3a.json"
+2021-07-29 12:47:40,067 INFO OSMnx Created GeoDataFrame with 10 rows from 10 queries
+2021-07-29 12:47:40,816 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=30 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2021-07-29 12:47:40,831 INFO OSMnx Begin plotting the graph...
+2021-07-29 12:47:53,954 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-29 12:48:03,282 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-29 12:48:13,099 INFO OSMnx Finished plotting the graph
+2021-07-29 12:48:14,884 INFO OSMnx Begin plotting the graph...
+2021-07-29 12:48:27,603 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-29 12:48:36,754 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-29 12:48:46,497 INFO OSMnx Finished plotting the graph
+2021-07-29 12:50:26,126 INFO OSMnx Begin plotting the graph...
+2021-07-29 12:50:38,464 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-29 12:50:48,154 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-29 12:50:57,949 INFO OSMnx Finished plotting the graph
+2021-07-29 16:09:11,022 INFO OSMnx Configured OSMnx 1.1.1
+2021-07-29 16:09:11,022 INFO OSMnx HTTP response caching is on
+2021-07-29 16:10:57,496 INFO OSMnx Retrieved response from cache file "cache\98c7371d0e0a0e40850d40788a32f8980c78bbe3.json"
+2021-07-29 16:10:57,596 INFO OSMnx Retrieved response from cache file "cache\92f453f67051b35bc2326354bd71f8abcd50c752.json"
+2021-07-29 16:10:57,643 INFO OSMnx Retrieved response from cache file "cache\6267a5049c3756aea482386316d1b184de19cc0d.json"
+2021-07-29 16:10:57,712 INFO OSMnx Retrieved response from cache file "cache\7a0c4da807364887f217f08ab4f9aff59458d050.json"
+2021-07-29 16:10:57,775 INFO OSMnx Retrieved response from cache file "cache\cc94bbb96f0d5b69c50398279fd2e0365364a530.json"
+2021-07-29 16:10:57,812 INFO OSMnx Retrieved response from cache file "cache\69246b9ab44edf7ad7c5e7b5be5a68c61224bd5b.json"
+2021-07-29 16:10:57,875 INFO OSMnx Retrieved response from cache file "cache\fd3a6423f62cd8016454000aa6399332a0bf1c0a.json"
+2021-07-29 16:10:57,975 INFO OSMnx Retrieved response from cache file "cache\56f990723eac5101a103355ea8884d00baf37da7.json"
+2021-07-29 16:10:58,028 INFO OSMnx Retrieved response from cache file "cache\a9cac558bd56343b6f808f18553ef6581d91c6b7.json"
+2021-07-29 16:10:58,075 INFO OSMnx Retrieved response from cache file "cache\3e93df17d1f16328b9ad720b3de39e833de7ef3a.json"
+2021-07-29 16:10:58,260 INFO OSMnx Created GeoDataFrame with 10 rows from 10 queries
+2021-07-29 16:10:59,078 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=30 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2021-07-29 16:10:59,132 INFO OSMnx Begin plotting the graph...
+2021-07-29 16:11:11,902 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-29 16:11:21,628 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-29 16:11:31,561 INFO OSMnx Finished plotting the graph
+2021-07-29 16:11:33,699 INFO OSMnx Begin plotting the graph...
+2021-07-29 16:11:46,641 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-29 16:11:56,349 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-29 16:12:06,156 INFO OSMnx Finished plotting the graph
+2021-07-29 18:33:43,740 INFO OSMnx Begin plotting the graph...
+2021-07-29 18:33:57,279 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-29 18:34:08,042 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-29 18:34:18,146 INFO OSMnx Finished plotting the graph
+2021-07-29 18:40:15,279 INFO OSMnx Begin plotting the graph...
+2021-07-29 18:40:27,089 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-29 18:40:37,433 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-29 18:40:47,311 INFO OSMnx Finished plotting the graph
+2021-07-29 19:16:22,880 INFO OSMnx Configured OSMnx 1.1.1
+2021-07-29 19:16:22,880 INFO OSMnx HTTP response caching is on
+2021-07-29 19:17:49,394 INFO OSMnx Retrieved response from cache file "cache\98c7371d0e0a0e40850d40788a32f8980c78bbe3.json"
+2021-07-29 19:17:49,541 INFO OSMnx Retrieved response from cache file "cache\92f453f67051b35bc2326354bd71f8abcd50c752.json"
+2021-07-29 19:17:49,558 INFO OSMnx Retrieved response from cache file "cache\6267a5049c3756aea482386316d1b184de19cc0d.json"
+2021-07-29 19:17:49,610 INFO OSMnx Retrieved response from cache file "cache\7a0c4da807364887f217f08ab4f9aff59458d050.json"
+2021-07-29 19:17:49,626 INFO OSMnx Retrieved response from cache file "cache\cc94bbb96f0d5b69c50398279fd2e0365364a530.json"
+2021-07-29 19:17:49,641 INFO OSMnx Retrieved response from cache file "cache\69246b9ab44edf7ad7c5e7b5be5a68c61224bd5b.json"
+2021-07-29 19:17:49,657 INFO OSMnx Retrieved response from cache file "cache\fd3a6423f62cd8016454000aa6399332a0bf1c0a.json"
+2021-07-29 19:17:49,695 INFO OSMnx Retrieved response from cache file "cache\56f990723eac5101a103355ea8884d00baf37da7.json"
+2021-07-29 19:17:49,710 INFO OSMnx Retrieved response from cache file "cache\a9cac558bd56343b6f808f18553ef6581d91c6b7.json"
+2021-07-29 19:17:49,742 INFO OSMnx Retrieved response from cache file "cache\3e93df17d1f16328b9ad720b3de39e833de7ef3a.json"
+2021-07-29 19:17:50,297 INFO OSMnx Created GeoDataFrame with 10 rows from 10 queries
+2021-07-29 19:17:51,277 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=30 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2021-07-29 19:17:51,293 INFO OSMnx Begin plotting the graph...
+2021-07-29 19:18:08,509 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-29 19:18:17,745 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-29 19:18:27,546 INFO OSMnx Finished plotting the graph
+2021-07-29 19:18:31,029 INFO OSMnx Begin plotting the graph...
+2021-07-29 19:18:44,148 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-29 19:18:53,560 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-29 19:19:03,222 INFO OSMnx Finished plotting the graph
+2021-07-29 19:19:21,054 INFO OSMnx Begin plotting the graph...
+2021-07-29 19:19:34,961 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-29 19:19:45,706 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-29 19:19:56,368 INFO OSMnx Finished plotting the graph
+2021-07-29 19:30:33,262 INFO OSMnx Begin plotting the graph...
+2021-07-29 19:30:46,927 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-29 19:30:57,106 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-29 19:31:06,899 INFO OSMnx Finished plotting the graph

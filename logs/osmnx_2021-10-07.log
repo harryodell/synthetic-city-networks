@@ -1,0 +1,24 @@
+2021-10-07 16:00:51,970 INFO OSMnx Configured OSMnx 1.1.1
+2021-10-07 16:00:51,970 INFO OSMnx HTTP response caching is on
+2021-10-07 16:00:56,250 INFO OSMnx Begin plotting the graph...
+2021-10-07 16:01:09,740 INFO OSMnx Created edges GeoDataFrame from graph
+2021-10-07 16:01:19,124 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-10-07 16:01:29,029 INFO OSMnx Finished plotting the graph
+2021-10-07 16:40:24,125 INFO OSMnx Configured OSMnx 1.1.1
+2021-10-07 16:40:24,125 INFO OSMnx HTTP response caching is on
+2021-10-07 16:40:29,527 INFO OSMnx Begin plotting the graph...
+2021-10-07 16:40:42,564 INFO OSMnx Created edges GeoDataFrame from graph
+2021-10-07 16:40:52,103 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-10-07 16:41:01,893 INFO OSMnx Finished plotting the graph
+2021-10-07 16:44:13,096 INFO OSMnx Configured OSMnx 1.1.1
+2021-10-07 16:44:13,096 INFO OSMnx HTTP response caching is on
+2021-10-07 16:44:18,466 INFO OSMnx Begin plotting the graph...
+2021-10-07 16:44:30,476 INFO OSMnx Created edges GeoDataFrame from graph
+2021-10-07 16:44:40,035 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-10-07 16:44:49,810 INFO OSMnx Finished plotting the graph
+2021-10-07 17:07:59,696 INFO OSMnx Begin plotting the graph...
+2021-10-07 17:08:11,962 INFO OSMnx Created edges GeoDataFrame from graph
+2021-10-07 17:08:21,632 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-10-07 17:08:31,510 INFO OSMnx Finished plotting the graph
+2021-10-07 17:10:09,730 INFO OSMnx Begin plotting the graph...
+2021-10-07 17:10:18,470 INFO OSMnx Begin plotting the graph...

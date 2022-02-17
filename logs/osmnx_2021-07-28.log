@@ -1,0 +1,84 @@
+2021-07-28 15:31:30,159 INFO OSMnx Configured OSMnx 1.1.1
+2021-07-28 15:31:30,159 INFO OSMnx HTTP response caching is on
+2021-07-28 15:34:48,735 INFO OSMnx Begin plotting the graph...
+2021-07-28 15:35:00,966 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-28 15:35:09,609 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-28 15:35:20,059 INFO OSMnx Finished plotting the graph
+2021-07-28 15:35:20,275 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2021-07-28 15:35:21,279 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Manchester%2C+UK with timeout=180
+2021-07-28 15:35:21,843 INFO OSMnx Downloaded 83.8kB from nominatim.openstreetmap.org
+2021-07-28 15:35:21,865 INFO OSMnx Saved response to cache file "cache\98c7371d0e0a0e40850d40788a32f8980c78bbe3.json"
+2021-07-28 15:35:21,881 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2021-07-28 15:35:22,885 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Rochdale%2C+UK with timeout=180
+2021-07-28 15:35:22,985 INFO OSMnx Downloaded 68.6kB from nominatim.openstreetmap.org
+2021-07-28 15:35:23,032 INFO OSMnx Saved response to cache file "cache\92f453f67051b35bc2326354bd71f8abcd50c752.json"
+2021-07-28 15:35:23,047 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2021-07-28 15:35:24,051 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bury%2C+Greater+Manchester%2C+UK with timeout=180
+2021-07-28 15:35:24,189 INFO OSMnx Downloaded 58.7kB from nominatim.openstreetmap.org
+2021-07-28 15:35:24,205 INFO OSMnx Saved response to cache file "cache\6267a5049c3756aea482386316d1b184de19cc0d.json"
+2021-07-28 15:35:24,220 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2021-07-28 15:35:25,224 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Salford%2C+UK with timeout=180
+2021-07-28 15:35:25,377 INFO OSMnx Downloaded 61.5kB from nominatim.openstreetmap.org
+2021-07-28 15:35:25,393 INFO OSMnx Saved response to cache file "cache\7a0c4da807364887f217f08ab4f9aff59458d050.json"
+2021-07-28 15:35:25,409 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2021-07-28 15:35:26,412 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Stockport%2C+UK with timeout=180
+2021-07-28 15:35:26,597 INFO OSMnx Downloaded 125.5kB from nominatim.openstreetmap.org
+2021-07-28 15:35:26,628 INFO OSMnx Saved response to cache file "cache\cc94bbb96f0d5b69c50398279fd2e0365364a530.json"
+2021-07-28 15:35:26,644 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2021-07-28 15:35:27,649 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Trafford%2C+UK with timeout=180
+2021-07-28 15:35:27,817 INFO OSMnx Downloaded 66.6kB from nominatim.openstreetmap.org
+2021-07-28 15:35:27,848 INFO OSMnx Saved response to cache file "cache\69246b9ab44edf7ad7c5e7b5be5a68c61224bd5b.json"
+2021-07-28 15:35:27,871 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2021-07-28 15:35:28,890 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Oldham%2C+UK with timeout=180
+2021-07-28 15:35:28,990 INFO OSMnx Downloaded 53.6kB from nominatim.openstreetmap.org
+2021-07-28 15:35:29,021 INFO OSMnx Saved response to cache file "cache\fd3a6423f62cd8016454000aa6399332a0bf1c0a.json"
+2021-07-28 15:35:29,021 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2021-07-28 15:35:30,025 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Tameside%2C+UK with timeout=180
+2021-07-28 15:35:30,156 INFO OSMnx Downloaded 71.1kB from nominatim.openstreetmap.org
+2021-07-28 15:35:30,178 INFO OSMnx Saved response to cache file "cache\56f990723eac5101a103355ea8884d00baf37da7.json"
+2021-07-28 15:35:30,194 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2021-07-28 15:35:31,198 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bolton%2C+Greater+Manchester%2C+UK with timeout=180
+2021-07-28 15:35:31,383 INFO OSMnx Downloaded 102.8kB from nominatim.openstreetmap.org
+2021-07-28 15:35:31,414 INFO OSMnx Saved response to cache file "cache\a9cac558bd56343b6f808f18553ef6581d91c6b7.json"
+2021-07-28 15:35:31,430 INFO OSMnx Pausing 1 seconds before making HTTP GET request
+2021-07-28 15:35:32,433 INFO OSMnx Get https://nominatim.openstreetmap.org/search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Wigan%2C+UK with timeout=180
+2021-07-28 15:35:32,634 INFO OSMnx Downloaded 124.8kB from nominatim.openstreetmap.org
+2021-07-28 15:35:32,649 INFO OSMnx Saved response to cache file "cache\3e93df17d1f16328b9ad720b3de39e833de7ef3a.json"
+2021-07-28 15:35:32,765 INFO OSMnx Created GeoDataFrame with 10 rows from 10 queries
+2021-07-28 15:35:45,662 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=30 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2021-07-28 15:35:46,132 INFO OSMnx Begin plotting the graph...
+2021-07-28 15:35:57,811 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-28 15:36:06,964 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-28 15:36:16,300 INFO OSMnx Finished plotting the graph
+2021-07-28 15:38:14,660 INFO OSMnx Configured OSMnx 1.1.1
+2021-07-28 15:38:14,676 INFO OSMnx HTTP response caching is on
+2021-07-28 15:38:52,922 INFO OSMnx Configured OSMnx 1.1.1
+2021-07-28 15:38:52,922 INFO OSMnx HTTP response caching is on
+2021-07-28 15:40:27,672 INFO OSMnx Begin plotting the graph...
+2021-07-28 15:40:39,339 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-28 15:40:48,332 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-28 15:40:57,794 INFO OSMnx Finished plotting the graph
+2021-07-28 15:41:26,248 INFO OSMnx Retrieved response from cache file "cache\98c7371d0e0a0e40850d40788a32f8980c78bbe3.json"
+2021-07-28 15:41:26,263 INFO OSMnx Retrieved response from cache file "cache\92f453f67051b35bc2326354bd71f8abcd50c752.json"
+2021-07-28 15:41:26,279 INFO OSMnx Retrieved response from cache file "cache\6267a5049c3756aea482386316d1b184de19cc0d.json"
+2021-07-28 15:41:26,295 INFO OSMnx Retrieved response from cache file "cache\7a0c4da807364887f217f08ab4f9aff59458d050.json"
+2021-07-28 15:41:26,317 INFO OSMnx Retrieved response from cache file "cache\cc94bbb96f0d5b69c50398279fd2e0365364a530.json"
+2021-07-28 15:41:26,317 INFO OSMnx Retrieved response from cache file "cache\69246b9ab44edf7ad7c5e7b5be5a68c61224bd5b.json"
+2021-07-28 15:41:26,332 INFO OSMnx Retrieved response from cache file "cache\fd3a6423f62cd8016454000aa6399332a0bf1c0a.json"
+2021-07-28 15:41:26,348 INFO OSMnx Retrieved response from cache file "cache\56f990723eac5101a103355ea8884d00baf37da7.json"
+2021-07-28 15:41:26,364 INFO OSMnx Retrieved response from cache file "cache\a9cac558bd56343b6f808f18553ef6581d91c6b7.json"
+2021-07-28 15:41:26,364 INFO OSMnx Retrieved response from cache file "cache\3e93df17d1f16328b9ad720b3de39e833de7ef3a.json"
+2021-07-28 15:41:26,395 INFO OSMnx Created GeoDataFrame with 10 rows from 10 queries
+2021-07-28 15:41:28,269 INFO OSMnx Projected GeoDataFrame to +proj=utm +zone=30 +ellps=WGS84 +datum=WGS84 +units=m +no_defs +type=crs
+2021-07-28 15:41:33,589 INFO OSMnx Begin plotting the graph...
+2021-07-28 15:41:45,350 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-28 15:41:54,131 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-28 15:42:03,560 INFO OSMnx Finished plotting the graph
+2021-07-28 15:42:39,620 INFO OSMnx Begin plotting the graph...
+2021-07-28 15:42:52,008 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-28 15:43:00,740 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-28 15:43:10,155 INFO OSMnx Finished plotting the graph
+2021-07-28 15:43:25,150 INFO OSMnx Begin plotting the graph...
+2021-07-28 15:43:37,357 INFO OSMnx Created edges GeoDataFrame from graph
+2021-07-28 15:43:46,438 INFO OSMnx Created nodes GeoDataFrame from graph
+2021-07-28 15:43:56,117 INFO OSMnx Finished plotting the graph
